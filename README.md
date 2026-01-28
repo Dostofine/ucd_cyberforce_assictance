@@ -11,7 +11,7 @@ Assistant terminal en Python pour la gestion des inscriptions de la Journée d'I
 ## 🚀 Installation
 1. Clonez le dépôt :
    ```bash
-   git clone [https://github.com/votre-utilisateur/ucd-cyberforce-assistant.git](https://github.com/votre-utilisateur/ucd-cyberforce-assistant.git)```
+   git clone [https://github.com/Dostofine/ucd_cyberforce_assictance.git]
 2.Lancez l'application :
     python assistance.py
 
@@ -23,3 +23,4 @@ Recommandé : Paramètres par défaut optimisés.
 Simple : Configuration rapide du montant de base.
 
 Avancé : Personnalisation complète (dossier d'export, format JSON, etc.).
+
